@@ -383,7 +383,7 @@ body.view-control-buttons .viewControlButton {
   position: fixed;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%) rotate(-25deg);
+  transform: translate(-50%, -50%) rotate(-0deg);
   z-index: 999999;
 
   text-align: center;
